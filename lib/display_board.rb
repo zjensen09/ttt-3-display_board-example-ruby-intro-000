@@ -8,3 +8,5 @@ def display_board
   puts "   |   |   "
   nil
 end
+
+display_board
